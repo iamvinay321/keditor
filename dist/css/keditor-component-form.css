@@ -63,7 +63,7 @@
   content: "\E80B";
 }
 .icon-button:before {
-  content: "\E80D";
+  background-color: red;
 }
 .icon-header:before {
   content: "\E80F";
